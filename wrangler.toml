@@ -1,6 +1,6 @@
 name = "first-try"
 type = "javascript"
-account_id = ""
+account_id = "2e26a2dc5be696f5ec71c782793b8471"
 workers_dev = true
 route = ""
 zone_id = ""
